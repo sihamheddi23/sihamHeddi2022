@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siham Heddi</h1>
 <h3 align="center">A passionate full stack web developper from Algeria</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sihamheddi2022&show_icons=true&locale=en" alt="sihamheddi2022" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sihamheddi2022&label=Profile%20views&color=0e75b6&style=flat" alt="sihamheddi2022" /> </p>
 
@@ -28,5 +27,6 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sihamheddi2022" alt="sihamheddi2022" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sihamheddi2022&show_icons=true&locale=en" alt="sihamheddi2022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sihamheddi2022&" alt="sihamheddi2022" /></p>
