@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siham Heddi</h1>
+
 <h3 align="center">A passionate full stack web developper from Algeria</h3>
 
 
